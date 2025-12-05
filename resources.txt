@@ -7,3 +7,5 @@ Intro to Github course
 https://github.com/skills/introduction-to-github
 
 https://github.com/skills/secure-repository-supply-chain
+
+https://github.com/skills/change-commit-history
