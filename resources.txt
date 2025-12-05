@@ -1,1 +1,7 @@
+Github skills portal
 
+https://skills.github.com/
+
+Intro to Github course
+
+https://github.com/skills/introduction-to-github
