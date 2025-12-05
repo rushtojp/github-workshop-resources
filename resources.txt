@@ -5,3 +5,5 @@ https://skills.github.com/
 Intro to Github course
 
 https://github.com/skills/introduction-to-github
+
+https://github.com/skills/secure-repository-supply-chain
