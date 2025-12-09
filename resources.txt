@@ -1,3 +1,7 @@
+Github copilot - study Guide
+
+https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-300
+
 Github skills portal
 
 https://skills.github.com/
