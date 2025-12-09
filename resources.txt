@@ -10,6 +10,9 @@ https://github.com/skills/secure-repository-supply-chain
 
 https://github.com/skills/change-commit-history
 
+GH certified resources
+
+https://ghcertified.com/practice_tests/
 
 BFG Repo cleaner
 
