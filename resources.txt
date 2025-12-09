@@ -1,3 +1,7 @@
+Github Copilot Chats
+
+https://docs.github.com/en/copilot/how-tos/chat-with-copilot
+
 Github cert preparation - tim warner website
 
 https://github.com/timothywarner-org/copilot-cert-prep
