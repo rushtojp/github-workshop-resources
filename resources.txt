@@ -1,3 +1,7 @@
+GH300 - Microsoft Course link
+
+https://learn.microsoft.com/en-us/training/courses/gh-300t00
+
 Github Copilot Chats
 
 https://docs.github.com/en/copilot/how-tos/chat-with-copilot
