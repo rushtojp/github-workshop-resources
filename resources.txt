@@ -1,3 +1,7 @@
+Github cert preparation - tim warner website
+
+https://github.com/timothywarner-org/copilot-cert-prep
+
 Github copilot - study Guide
 
 https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-300
